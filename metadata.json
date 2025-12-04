@@ -1,0 +1,5 @@
+{
+  "name": "Miniapp AI",
+  "description": "An AI-powered tool that generates functional micro-applications instantly from a single sentence prompt.",
+  "requestFramePermissions": []
+}
